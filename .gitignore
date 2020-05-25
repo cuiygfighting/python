@@ -1,0 +1,13 @@
+##ignore in this reposition##
+
+# CatsLogs
+.vscode
+.idea
+_Temp
+
+
+# Runtime data
+*.sln
+*.vs
+
+
