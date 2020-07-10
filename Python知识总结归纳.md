@@ -2,5 +2,4 @@
 
 ## 1.python基础
 
-## 2.python高级
-
+## 2.python
